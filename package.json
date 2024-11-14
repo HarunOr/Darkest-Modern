@@ -19,7 +19,7 @@
       {
         "label": "Darkest Modern",
         "uiTheme": "vs-dark",
-        "path": "./themes/darkest_modern.json"
+        "path": "./themes/darkest_modern-theme.json"
       }
     ]
   }

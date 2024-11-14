@@ -1,0 +1,26 @@
+{
+  "name": "darkest-modern",
+  "displayName": "darkest-modern",
+  "description": "A mixed theme from Anysphere Dark and default theme Dark Modern",
+  "version": "0.0.1",
+  "publisher": "HarunOr",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/HarunOr/darkest-modern"
+  },
+  "engines": {
+    "vscode": "^1.95.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Darkest Modern",
+        "uiTheme": "vs-dark",
+        "path": "./themes/darkest_modern.json"
+      }
+    ]
+  }
+}
